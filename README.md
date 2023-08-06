@@ -27,6 +27,14 @@ console.log(results);
 
 ## Release Notes
 
+### Version 1.0.4
+
+- Added vitest unit tests
+
+### Version 1.0.3
+
+- Added git repository to package.json
+
 ### Version 1.0.2
 
 Optimizations:
